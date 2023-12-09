@@ -1,0 +1,21 @@
+header {
+    background-color: beige;
+}
+aside {
+    background-color: cyan;
+}
+nav {
+    background-color: slategrey;
+}
+footer {
+    background-color: black;
+    color: white;
+}
+
+*{
+    margin: 0px;
+}
+
+p {
+    text-align: justify;
+}
